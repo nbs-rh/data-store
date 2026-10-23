@@ -1,0 +1,36 @@
+{
+  "seed": 20261023,
+  "test_count": 200,
+  "calibration_count": 25,
+  "calibration_ids": [
+    "arithmetic-009",
+    "arithmetic-016",
+    "arithmetic-018",
+    "arithmetic-019",
+    "arithmetic-022",
+    "arithmetic-027",
+    "arithmetic-032",
+    "arithmetic-035",
+    "arithmetic-038",
+    "arithmetic-041",
+    "arithmetic-085",
+    "arithmetic-091",
+    "arithmetic-101",
+    "arithmetic-103",
+    "arithmetic-107",
+    "arithmetic-108",
+    "arithmetic-116",
+    "arithmetic-119",
+    "arithmetic-125",
+    "arithmetic-126",
+    "arithmetic-150",
+    "arithmetic-153",
+    "arithmetic-159",
+    "arithmetic-177",
+    "arithmetic-198"
+  ],
+  "files": {
+    "test-200.jsonl": "cc7d0238b542b3edb5a8dd39c63b73fa3ad8d7d473f9a622cdba298bd221ad05",
+    "calibration-25.jsonl": "e822f9df23bcf1d821c68f0fc272bfa86cb66804604a2308545c1efb7467b42e"
+  }
+}
