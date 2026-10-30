@@ -1,0 +1,6 @@
+{
+  "primary_score": {
+    "metric": "prediction/mean"
+  },
+  "estimand": "mean"
+}
