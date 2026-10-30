@@ -1,0 +1,6 @@
+{
+  "primary_score": {
+    "metric": "mean_ttft_ms"
+  },
+  "estimand": "mean"
+}
