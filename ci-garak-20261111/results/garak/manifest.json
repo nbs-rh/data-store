@@ -1,0 +1,6 @@
+{
+  "primary_score": {
+    "metric": "attack_success_rate"
+  },
+  "estimand": "mean"
+}
