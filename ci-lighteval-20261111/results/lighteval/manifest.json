@@ -1,0 +1,6 @@
+{
+  "primary_score": {
+    "metric": "piqa.em"
+  },
+  "estimand": "mean"
+}
