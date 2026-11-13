@@ -1,0 +1,6 @@
+{
+  "primary_score": {
+    "metric": "niah_single_1.ctx_512.score"
+  },
+  "estimand": "mean"
+}
