@@ -1,0 +1,6 @@
+{
+  "primary_score": {
+    "metric": "resolve_rate"
+  },
+  "estimand": "mean"
+}
