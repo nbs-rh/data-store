@@ -1,0 +1,6 @@
+{
+  "primary_score": {
+    "metric": "hsr"
+  },
+  "estimand": "mean"
+}
